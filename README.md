@@ -12,4 +12,4 @@ A simple and efficient database system for managing bookings, staff, and gaming 
 2. Entity-Relationship (ER) Modeling
 3. Normalization (1NF, 2NF, 3NF)
 # Demo
-
+https://youtu.be/j4I7IiTJUr0?si=0lsLqlVu05Rm8a7Q
